@@ -42,6 +42,7 @@ function spyOn (func) {
 ```
 ## Education
 **Secondary, Gymnasium №41 2017.**
+**Student in Vistula university in Warsaw**
 
 ## English 
 B2 Upper-Intermediate
