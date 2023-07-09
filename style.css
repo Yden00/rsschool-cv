@@ -1,0 +1,88 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+html{
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  width: 1080px;
+  padding: 5%;
+  height: 100vh;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  border-top: 4px solid rgb(65, 50, 50);
+  border-bottom: 4px solid rgb(65, 50, 50);
+  height: 20vh;
+}
+
+.cv_title {
+  color: rgb(109, 109, 109);
+  font-size: 60px;
+}
+
+.cv_subtitle {
+  font-size: 1.5em;
+  color: rgb(109, 109, 109);
+}
+
+section {
+  font-size: 17px;
+  padding-top: 3%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cv_profile {
+  font-size: 18px;
+  line-height: 25px;
+  width: 60%;
+  color: rgb(109, 109, 109);
+}
+
+.contact-info {
+  color: rgb(109, 109, 109);
+}
+
+.cv_experience {
+  width: 69%;
+}
+
+.cv_skills {
+  width: 31%;
+  flex-direction: column;
+  align-items: center;
+}
+ul, .university {
+  padding-left: 15%;
+
+}
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  border-top: 4px solid rgb(65, 50, 50);
+  margin-top: 20px;
+}
+
+footer img {
+  width: 100px;
+  height: 100px;
+}
+
