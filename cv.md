@@ -13,7 +13,6 @@ Purposeful, responsible and handsome front-end developer in future:)
 * Git
 * React
 * ESLint
-* Docker
 ## Sample code
 
 ```
