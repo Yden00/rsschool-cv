@@ -1,1 +1,1 @@
-# [rsschool-cv](https://ue4prog.github.io/rsschool-cv/)
+[rsschool-cv](https://ue4prog.github.io/rsschool-cv/)
