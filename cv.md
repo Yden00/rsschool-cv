@@ -19,9 +19,9 @@
 
 ### Languages
 
-- Polish
-- English
-- Russian
+- Polish A2
+- English B2
+- Russian Native
 
 ### Education
 
